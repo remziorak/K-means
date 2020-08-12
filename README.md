@@ -28,7 +28,7 @@ When N is number of samples and K is number of clusters, K-means algorithm try t
 
 
 <p align="center"> 
-<img src="http://latex2png.com/output//latex_1ccbe5b6d2ac8be5679a4e8963817d15.png"  width="300"  />
+<img src="https://user-images.githubusercontent.com/45906647/90062451-613ef880-dcf0-11ea-9f19-6a3f12496b28.png"  width="500"  />
 </p>
 
 
